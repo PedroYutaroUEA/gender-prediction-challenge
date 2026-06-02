@@ -11,6 +11,6 @@ wheels/
 .venv
 
 # custom
-data
 articles
-output
+src/data/
+src/output/F1/
