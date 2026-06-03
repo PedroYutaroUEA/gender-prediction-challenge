@@ -14,4 +14,5 @@ wheels/
 articles
 src/data/*.csv
 *.pkl
+f1_reg-log_solver-saga_inter-shift.pkl
 src/output/F1/
