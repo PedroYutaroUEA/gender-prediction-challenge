@@ -12,5 +12,6 @@ wheels/
 
 # custom
 articles
-src/data/
+src/data/*.csv
+*.pkl
 src/output/F1/
